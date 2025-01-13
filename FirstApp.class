@@ -1,0 +1,25 @@
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by FernFlower decompiler)
+//
+
+class FirstApp {
+    FirstApp() {
+    }
+
+    public static void main(String[] var0) {
+        System.out.println("Dzisiaj jest piękna pogoda.\n");
+        System.out.println("Pan pomidor wlazł na tyczkę");
+        System.out.println("I przedrzeźnia ogrodniczkę.");
+        System.out.println("\"Jak pan może,");
+        System.out.println("Panie pomidorze?!\"");
+        System.out.println();
+        System.out.println("------------------------------");
+        System.out.println("Do biedronki przyszedł żuk,");
+        System.out.println("W okieneczko puk-puk-puk.");
+        System.out.println();
+        System.out.println("Panieneczka widzi żuka:");
+        System.out.println("\"Czego pan tu u mnie szuka?\"");
+        System.out.println("------------------------------");
+    }
+}
